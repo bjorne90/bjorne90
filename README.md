@@ -10,10 +10,6 @@ if python is True:
 - **Cloud & DevOps**: Docker, Kubernetes, AWS, and scalable system design
 
 
-## 🚀 What I'm Working On
-I'm currently focused on **FastAPI / ML** for a Swedish Medical company. Stay tuned for exciting updates!
-
-
 ## 💡 Interests
 I’m always exploring:
 - Creative ideas in **AI prompting** and innovative applications of **Machine Learning** in real-world scenarios
