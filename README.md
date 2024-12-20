@@ -1,25 +1,45 @@
-### Hi there 👋
+### Hi there 👋 
 
 if python is True:
 <br />    move_to_next_project()
 
-## Senior Fullstack Software Engineer with expertise in:
-### 🛠️ Skills & Expertise
-- **Python**: Machine Learning/AI, RESTful APIs, and backend development(Django, Flask)
-- **JavaScript/TypeScript**: Building modern web applications with React, Node.js, and TypeScript
-- **Cloud & DevOps**: Docker, Kubernetes, AWS, and scalable system design
+### 🚀 Senior Fullstack Software Engineer | AI & Scalable Systems | Problem-Solver
 
+With **14+ years of experience**, I specialize in building **scalable, robust, and user-friendly systems** that solve real-world challenges. My work bridges the gap between cutting-edge technology and seamless user experiences, whether through **AI-powered solutions**, secure backend systems, or modern web applications.
 
-## 💡 Interests
-I’m always exploring:
-- Creative ideas in **AI prompting** and innovative applications of **Machine Learning** in real-world scenarios
-- Advancing **secure system design** to build scalable, reliable, and robust architectures
-- Building dynamic and user-friendly **React** applications with cutting-edge UI/UX principles
-- Leveraging the power of **Python** for automating workflows, data analysis, and developing sophisticated AI models
+---
 
-## 🤝 Let's Collaborate!
-I'm open to collaboration and contributions! Whether you're interested in my work or have an idea to share, feel free to reach out.
+## 🛠️ Skills & Expertise
+- **Programming Languages**: Python, JavaScript, TypeScript, HTML5, CSS
+- **Frameworks & Libraries**: Django, Flask, Node.js, React.js, Vue.js, Express
+- **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes, Redis, PostgreSQL, MongoDB, SQL
+- **System Design**: Scalable architecture, secure authentication, API integrations
+- **Testing & Automation**: Test-Driven Development (TDD), PyTest, Jest, Robot Framework
+- **UI/UX Development**: Responsive design, Tailwind CSS, SASS, Bootstrap
 
-⭐ **Pro Tip**: If you like my work, consider starring my repositories. It means a lot! 😊
+---
 
---- 
+## 💡 What Drives Me
+- Exploring innovative **AI/ML** applications to solve real-world problems
+- Building **scalable, secure, and maintainable systems** using the latest technologies
+- Crafting intuitive **frontend solutions** with modern design principles
+- **Collaborating** on meaningful projects that impact users and businesses alike
+
+---
+
+## 🏆 Notable Projects
+- Developed a **healthcare personnel management system**, streamlining scheduling, document handling, and communication
+- Built a **secure authentication system** with BankID and API integrations
+- Designed scalable RESTful APIs and optimized backend performance for data-heavy applications
+- Created a dynamic **diving log platform** for users to record and share experiences
+
+---
+
+## 🌟 Let's Connect
+- 💬 Interested in collaborating on **AI**, **cloud-native apps**, or **full-stack development**? Let’s chat!
+- 📧 Reach out via email at [bjce90@gmail.com](mailto:bjce90@gmail.com)
+
+---
+
+### ✨ Fun Fact:
+When I’m not coding, I’m diving into **AI self-studies** or brainstorming new ways to improve user experience through technology.
