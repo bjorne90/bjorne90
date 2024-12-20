@@ -3,7 +3,7 @@
 if python is True:
 <br />    move_to_next_project()
 
-## Fullstack Software Engineer with expertise in:
+## Senior Fullstack Software Engineer with expertise in:
 ### 🛠️ Skills & Expertise
 - **Python**: Machine Learning/AI, RESTful APIs, and backend development(Django, Flask)
 - **JavaScript/TypeScript**: Building modern web applications with React, Node.js, and TypeScript
