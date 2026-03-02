@@ -1,17 +1,6 @@
-```ascii
-██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
-██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
-██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
-██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
-██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
-╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-```
+**🚀 Senior Cybersecurity Specialist**
 
-### `if python is True: move_to_next_project()`
-
-**🚀 Senior Fullstack Software Engineer & Cybersecurity Specialist**
-
-🐍 Python • ⚛️ React • 🟢 Node.js • 🔒 Cybersecurity
+🔒 Cybersecurity • 🐍 Python • ⚛️ React • 🟢 Node.js
 
 *Type `help` to get started*
 
@@ -21,7 +10,7 @@
 bjorn@portfolio:~$ whoami
 ```
 
-**14+ years** building scalable AI-driven systems with focus on **security and performance**. Currently exploring innovative AI solutions while helping organizations identify vulnerabilities before they become problems.
+**16+ years** of hands-on experience in **AppSec and Penetration testing,** combining development skills with offensive security to uncover real vulnerabilities. Currently exploring AI solutions.
 
 ---
 
@@ -36,7 +25,7 @@ bjorn@portfolio:~$ skills --show-arsenal
 Languages: 
   - Python (Senior)
   - JavaScript/TypeScript (Senior) 
-  - Go (Proficient)
+  - Go (Senior)
 Backend: [Django, Flask, FastAPI, Node.js/Express]
 Frontend: [React.js, Vue.js, Next.js]
 Databases: [PostgreSQL, MongoDB, Redis] # with encryption controls
@@ -69,12 +58,6 @@ bjorn@portfolio:~$ security --show-expertise
 - OWASP Top 10 vulnerability mitigation strategies
 - Automated security scanning integration (SAST/DAST)
 - Security code review and incident response
-
-### 🔐 Identity & Access Management
-- BankID integration for Swedish market compliance
-- OAuth 2.0/OpenID Connect enterprise implementations
-- JWT security best practices & token management
-- Multi-factor authentication (MFA) & RBAC systems
 
 ### ☁️ Cloud Security Engineering
 
@@ -110,7 +93,7 @@ bjorn@portfolio:~$ connect --social
 
 - 💬 Interested in collaborating on **AI**, **cloud-native apps**, or **security**?
 - 📧 **Email:** [bjce90@gmail.com](mailto:bjce90@gmail.com)
-- 🔗 **Portfolio:** Coming soon...
+- 🔗 **Portfolio:** [z3r0dusk.se](https://www.z3r0dusk.se)
 
 ---
 
